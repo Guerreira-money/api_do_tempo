@@ -1,6 +1,6 @@
-//site de meteorologia openweather 9c5d0b1c9c2453d2aa24cedcbeb5708f api
+
 //https:api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-const key = "9c5d0b1c9c2453d2aa24cedcbeb5708f"
+const key = "chave da api"
 //conseguimos pegar o valor do input
 //1° funçao
 //function cliqueiNoBotao(){
